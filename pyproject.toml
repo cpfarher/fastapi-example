@@ -1,0 +1,10 @@
+[project]
+name = "fastapi-example"
+version = "0.1.0"
+description = "A FastAPI example project."
+authors = [
+    { name = "Christian Pfarher", email = "***" }
+]
+dependencies = [
+    "fastapi[standard]"
+] 
